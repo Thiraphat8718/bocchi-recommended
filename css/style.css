@@ -1,0 +1,83 @@
+body{
+    background-image: url("../images/00Bocchi-bg.png");
+    background-color: #86456d;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+
+}
+
+.nav-dec{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    color: #86456d;
+
+}
+
+.head-dec{
+    font-family: "Noto Sans Thai", sans-serif;
+    color: #fff700;
+}
+
+.title-dec{
+    font-family: "Bebas Neue", sans-serif;
+    color: #fff700;
+    font-weight: 500;
+    font-size: 100px;
+
+}
+
+.p-dec{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.p-dec-bl{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.card-text-dec{
+    color: rgb(0, 0, 0);
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.footer-dec{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.footer{
+    background-color: rgb(255, 255, 255);
+}
+
+li{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.sub-title-dec{
+    color: #ffffff;
+}
+
+.bul-dec{
+    color: #fff700;
+}
+
+.cap-dec{
+
+        font-family: "Noto Sans Thai", sans-serif;
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 30px;
+    
+}
+
+.center {
+    text-align: center;
+    padding: 250px 0;
+}
